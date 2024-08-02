@@ -2,5 +2,12 @@
 
 ## Development Platform
 
-- [dify](https://github.com/langgenius/dify) - Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
-- [TaskingAI](https://github.com/TaskingAI/TaskingAI) - The open source platform for AI-native application development.
+- [dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Its intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+
+## Development Tools
+
+- [promptflow](https://microsoft.github.io/promptflow/) - Prompt flow is a suite of development tools designed to streamline the end-to-end development cycle of LLM-based AI applications, from ideation, prototyping, testing, evaluation to production deployment and monitoring.
+
+## Backend as a Service(BaaS)
+
+- [TaskingAI](https://github.com/TaskingAI/TaskingAI) - TaskingAI is a BaaS (Backend as a Service) platform for LLM-based Agent Development and Deployment.
